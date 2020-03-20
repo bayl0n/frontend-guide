@@ -1,10 +1,4 @@
 # Skills of a successful front-end web developer
-Everyone wants to hire the perfect Drupal developer - but you need a way to identify future potential Drupal front-end developers. What previous experiences and transferable skills are going to help someone make the switch to Drupal and excel on a busy team for a typical Drupal site owner.
-
-What are the transferable skills and characteristics someone could look for in a potential Drupal developer? To put it another way, if you have a group of 10 people how would you narrow down your choices?
-
-There are many roles recognized in the Drupal community, yet for the purposes of this discussion, we are grouping them into two roles: Back-end developer, and Front-end developer.
-
 ## Front end developer
 ### Previous experience
 * Understands key server-side web development concepts through experiences such as:
